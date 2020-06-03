@@ -1,2 +1,2 @@
 # EECS481-sample
-discussion 9
+Discussion 9
